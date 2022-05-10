@@ -45,6 +45,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <a href='https://axios-http.com/docs/intro'>Axios | ^0.27.2</a>
 </details>
 
+# Visitar:
+  <a href="https://feed-ltnip12ed-henriquepontesti.vercel.app/">💬 Site hospedado na Vercel 📋</a>
+  
 # ⚙️ Como executar
 
 
