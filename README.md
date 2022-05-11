@@ -25,7 +25,7 @@ Projeto desenvolvido para coletar feedbacks de suas aplicações. O projeto cole
 
 ## Layout
 
-### Desktop Screenshot
+### Web Screenshot
 
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
     <img width="700px" src="./.github/desktop-components.png">
