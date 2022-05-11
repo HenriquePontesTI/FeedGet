@@ -36,7 +36,10 @@ Projeto desenvolvido para coletar feedbacks de suas aplicações. O projeto cole
 <div style="display: flex; flex-direction: 'row';">
     <img width=700px" src="./.github/mobile-components.png">
 </div>
-
+                                                           
+# Visitar:
+  <a href="https://feed-ltnip12ed-henriquepontesti.vercel.app/">💬 Site hospedado na Vercel 📋</a>
+  
 # ⚙️ Como executar
 
 Para executar e testar a aplicação na sua máquina, primeiramente clone o repositório no seu computador.
